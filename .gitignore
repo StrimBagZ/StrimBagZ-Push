@@ -1,0 +1,15 @@
+bin/
+dist/
+lib/
+out/
+.settings/
+.idea/
+META-INF/
+notes/
+.DS_Store
+.gitignore~
+.classpath
+.out
+.cache-main
+LiveSplitNotes.iml
+config.cfg
